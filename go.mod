@@ -5,12 +5,14 @@ go 1.13
 require (
 	github.com/coreos/go-semver v0.3.0
 	github.com/envoyproxy/protoc-gen-validate v0.1.0
+	github.com/fatih/gomodifytags v1.13.0 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/gogo/protobuf v1.3.0
 	github.com/golang/mock v1.3.1
-	github.com/golang/protobuf v1.3.2 // indirect
+	github.com/golang/protobuf v1.4.3
 	github.com/golang/snappy v0.0.1
 	github.com/gomodule/redigo v2.0.0+incompatible
+	github.com/google/uuid v1.1.2
 	github.com/gorilla/mux v1.7.3
 	github.com/kavu/go_reuseport v1.4.0
 	github.com/kirk91/stats v0.0.5-0.20191121064423-8a4d70fadb55
